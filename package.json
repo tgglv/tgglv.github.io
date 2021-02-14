@@ -1,0 +1,26 @@
+{
+  "name": "tgglv.github.io",
+  "version": "1.0.0",
+  "description": "A cheatsheet about the right way of trash recycling in Kazan",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgglv/tgglv.github.io.git"
+  },
+  "keywords": [
+    "trash",
+    "recycle"
+  ],
+  "author": "Timur Gogolev",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/tgglv/tgglv.github.io/issues"
+  },
+  "homepage": "https://github.com/tgglv/tgglv.github.io#readme"
+}
